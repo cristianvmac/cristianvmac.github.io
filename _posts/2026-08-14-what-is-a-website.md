@@ -1,5 +1,5 @@
 ---
-title: What is a website?
+title: What is a Website?
 url: what-is-a-website
 description: Learn what a website is, why every business needs one, and the four pillars of a site that actually works for customers.
 author: Cristian Marinescu

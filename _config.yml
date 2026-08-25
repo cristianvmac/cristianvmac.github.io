@@ -5,6 +5,8 @@ baseurl: ""
 
 theme: minima
 
+header_pages: []
+
 permalink: /blog/:title/
 
 author:
