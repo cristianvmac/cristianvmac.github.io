@@ -10,8 +10,7 @@ permalink: /blog/:title/
 author:
   name: Cristian Marinescu
 
-header_pages:
-  - about.md
+twitter_username: cristianvmac
 
 defaults:
   - scope:
