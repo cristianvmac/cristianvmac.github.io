@@ -1,0 +1,15 @@
+title: Cristian Marinescu
+description: Articles on web development and building websites
+url: "https://cristianvmac.github.io"
+baseurl: ""
+
+theme: minima
+
+permalink: /blog/:title/
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
