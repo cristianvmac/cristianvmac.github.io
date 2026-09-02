@@ -31,7 +31,7 @@ A well-built website brings:
 ## What makes a 'good' website?
 
 1. **Strategy:** Why does this site exist? Who is it for?
-2. **Design:** Is it visually appealing?
+2. **Design:** Is it visually appealing? Here's [how I approach website design](/blog/how-to-design-a-website/).
 3. **Development:** Does it load fast? Does it work well on mobile phones?
 4. **Marketing:** Can people find it on Google? Is there a clear call to action (e.g., "Buy Now" or "Call Us")?
 
@@ -39,4 +39,4 @@ If a website is missing one of these principles, it is essentially broken. A bea
 
 ---
 
-**Need a website built for your business?** [Local Fast Web Designs](https://localfastwebdesigns.com) creates fast, professional sites for local businesses — no coding required on your end.
+**Need a website?** [Websitero](https://websitero.com/createyourwebsite/) creates fast, professional sites for local businesses.

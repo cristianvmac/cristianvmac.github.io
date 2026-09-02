@@ -39,8 +39,8 @@ If you want to remove the CMS, run *`npm run remove-decap`*. If you want to keep
 
 Best of all, it's completely free from your first line of code to your live deployment on Netlify's standard free tier.
 
+If the code side is clear but the layout still feels like a blank canvas, read [how to design a website](/blog/how-to-design-a-website/).
+
 ---
 
-**Want to build it yourself?** Explore more guides at [Websitero](https://websitero.com).
-
-**Prefer to skip the technical work?** [Local Fast Web Designs](https://localfastwebdesigns.com) builds fast, custom websites for businesses that want to go live without writing code.
+**Want to build it yourself?** Explore more at [Websitero](https://websitero.com/createyourwebsite/).
