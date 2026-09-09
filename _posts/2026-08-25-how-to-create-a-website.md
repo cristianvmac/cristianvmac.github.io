@@ -12,7 +12,7 @@ alt: Illustration of creating a website
 imageAlt: Illustration of creating
 ---
 
-Every website should be built from HTML, CSS and basic JS for interactivity. No need for frameworks like React, drag-and-drop builders, or template dependencies.
+Every website should be built from HTML, CSS and basic JS for interactivity. No need for frameworks like React, drag-and-drop builders, or template dependencies. I go into why I stopped using page builders in [why I custom code my websites](/blog/why-i-custom-code-my-websites/).
 Using basic web development is enough to create a good website and useful for you. If you're new to the concept, start with [what a website actually is](/blog/what-is-a-website/) before diving into the build steps.
 
 You need to have some knowledge about it which is quite easy nowadays because of the free resources available. One resource I always recommend is [MDN Web Docs](https://developer.mozilla.org/) which is free and easy to learn from. For more guides and tools, [Websitero](https://websitero.com) covers practical web topics in plain language.
