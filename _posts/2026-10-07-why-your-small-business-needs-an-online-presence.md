@@ -103,7 +103,7 @@ Your online presence is no longer a nice-to-have. It's the foundation of how cus
 
 Oakenio helps local businesses show up wherever their customers are looking, from search results to social feeds to AI recommendations. Post updates, reply to reviews, and track how you show up, all from one place.
 
-[Take control of your online presence with Oakenio.](https://www.oakenio.com/signup)
+[Take control of your online presence with Oakenio.](https://www.oakenio.com/)
 
 ## FAQs
 
