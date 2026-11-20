@@ -28,6 +28,8 @@ A nice website on its own isn't enough anymore. Your business needs to be unders
 
 That used to mean Google, social media and review sites. Now it also includes AI assistants. Each one is a place where a customer could find you, or find your competitor.
 
+Keeping all of those channels up to date by hand gets messy fast. An all-in-one platform like [Oakenio](https://www.oakenio.com/) lets you manage your presence across search, social and AI from one place.
+
 ## 2. AI needs to understand what you actually do
 
 When someone asks ChatGPT for a recommendation, it has to answer some basic questions about your business:
