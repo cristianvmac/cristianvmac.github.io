@@ -4,6 +4,7 @@ Articles on web development and building websites for beginners and small busine
 
 ## Blog posts
 
+- [Is ChatGPT Becoming the New Google Business Profile?](https://cristianvmac.github.io/blog/is-chatgpt-becoming-the-new-google-business-profile/)
 - [4 Best Social Media Platforms for Small Businesses](https://cristianvmac.github.io/blog/best-social-media-platforms-for-small-businesses/)
 - [Why Your Small Business Needs an Online Presence](https://cristianvmac.github.io/blog/why-your-small-business-needs-an-online-presence/)
 - [How to Make a Website Mobile Friendly](https://cristianvmac.github.io/blog/how-to-make-a-website-mobile-friendly/)
